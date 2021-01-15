@@ -1,4 +1,32 @@
-### Hi there 👋
+### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+
+<a target="_blank" href="https://www.instagram.com/opaulcj">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/pauloodev">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="mailto:contato@pauloo.site">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+</br>
+
+---
+
+<img align="left" height="220" src="https://cdn.discordapp.com/attachments/752212575688720384/759591413360361492/sp3_bglessx4.png"/>
+
+Olá, sou **Paulo César**.
+
+Sou um Desenvolvedor <img src="https://avatars2.githubusercontent.com/u/48892662?s=400&u=85578ae38e0319c286b09b76f05fc897ff009ccd&v=4" width="20px"> **Javascript** de 17 anos, 💻 **Estudante de Sistemas para Internet**, um bom 🎮 **jogador de videogame**.
+
+---
+
+### **Meus projetos:**
+
+**Khauê Bot** <a target="_blank" href="https://khaue.site">
+  <img align="left" alt="Gmail" width="33px" src="https://i.imgur.com/cPJ9kff.png" />
+</a> - Aplicação desenvolvida para a plataforma do Discord.
 
 <!--
 **pauloodev/pauloodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
