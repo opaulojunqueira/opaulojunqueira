@@ -28,6 +28,10 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
   <img align="left" alt="Gmail" width="33px" src="https://i.imgur.com/cPJ9kff.png" />
 </a> - Aplicação desenvolvida para a plataforma do Discord.
 
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pauloodev&show_icons=true&theme=dark)
+
 <!--
 **pauloodev/pauloodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
