@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" height="220" src="https://pbs.twimg.com/profile_images/1344929137375510530/G-Ow2ksO_400x400.jpg"/>
+<img align="left" height="220" src="api.khaue.site/avatar/323240538574946304"/>
 
 Olá, sou **Paulo César**.
 
