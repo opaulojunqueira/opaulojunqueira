@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" height="220" src="api.khaue.site/avatar/323240538574946304"/>
+<img align="left" height="220" src="https://api.khaue.site/avatar/323240538574946304"/>
 
 Olá, sou **Paulo César**.
 
