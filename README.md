@@ -1,13 +1,13 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 
 <a target="_blank" href="https://www.instagram.com/opaulcj">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618915689~hmac=17b318ad47fcd8cb53bfb5d6530063e4" />
 </a>
 <a target="_blank" href="https://twitter.com/pauloodev">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1618915755~hmac=ed59663f4f54d1d0b206ae6cbf7fb614" />
 </a>
 <a target="_blank" href="mailto:contato@pauloo.site">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1917/1917737.svg?token=exp=1618915785~hmac=c21f59d8721b88e6f4484a1e23bed94b" />
 </a>
 
 </br>
