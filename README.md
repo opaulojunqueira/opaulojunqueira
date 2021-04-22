@@ -7,7 +7,7 @@
   <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1618915755~hmac=ed59663f4f54d1d0b206ae6cbf7fb614" />
 </a>
 <a target="_blank" href="mailto:contato@pauloo.site">
-  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1917/1917737.svg?token=exp=1618915785~hmac=c21f59d8721b88e6f4484a1e23bed94b" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/893/893247.svg?token=exp=1619066967~hmac=34d62b115b6ce7cad96646dd3dcac9a4" />
 </a>
 
 </br>
