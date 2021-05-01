@@ -31,7 +31,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
 
 <b>BassMaster (Web Player)</b> <a target="_blank" href="http://webplayer.bassmaster.ml/">
   <img align="left" alt="Gmail" width="33px" src="https://cdn.discordapp.com/avatars/731148307329712189/89c39ceaa662703dd88d9367e654a230.png?size=2048" />
- </a> | Painel (web player) com manipulação para com um Bot do Discord.
+ </a> <p>| Painel (web player) com manipulação para com um Bot do Discord.</p>
 ---
 
 <!--
