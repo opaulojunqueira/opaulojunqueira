@@ -27,7 +27,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
 
 <b>Khauê Bot</b> <a target="_blank" href="https://khaue.site">
 <img align="left" alt="Khaue" width="33px" src="https://i.imgur.com/cPJ9kff.png" />
-</a> - Aplicação desenvolvida para a plataforma do Discord (Economia, Utilidades).
+</a> - Aplicação desenvolvida para a plataforma do Discord (Economia).
 </br></br>
 <b>Luxer Bot</b> <a target="_blank" href="https://www.luxer.gq/">
 <img align="left" alt="Luxer" width="33px" src="https://www.luxer.gq/assets/images/logo-luxer.png" />
