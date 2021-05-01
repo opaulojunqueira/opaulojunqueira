@@ -7,7 +7,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/iRNu7Ug.png" />
 </a>
 <a target="_blank" href="mailto:contato@pauloo.site">
-  <img align="left" alt="Gmail" width="22px" src="https://i.imgur.com/Elwdami.png" />
+  <img align="left" alt="Gmail" width="22px" src="https://i.imgur.com/zAiig9I.png" />
 </a>
 
 </br>
