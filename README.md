@@ -1,13 +1,13 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 
 <a target="_blank" href="https://www.instagram.com/opaulcj">
-  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618915689~hmac=17b318ad47fcd8cb53bfb5d6530063e4" />
+  <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/7GnNrAi.png" />
 </a>
 <a target="_blank" href="https://twitter.com/pauloodev">
-  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1618915755~hmac=ed59663f4f54d1d0b206ae6cbf7fb614" />
+  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/iRNu7Ug.png" />
 </a>
 <a target="_blank" href="mailto:contato@pauloo.site">
-  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/893/893247.svg?token=exp=1619066967~hmac=34d62b115b6ce7cad96646dd3dcac9a4" />
+  <img align="left" alt="Gmail" width="22px" src="https://i.imgur.com/Elwdami.png" />
 </a>
 
 </br>
