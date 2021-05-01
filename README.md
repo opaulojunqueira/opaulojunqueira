@@ -28,7 +28,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
 <b>Khauê Bot</b> <a target="_blank" href="https://khaue.site">
 <img align="left" alt="Khaue" width="33px" src="https://i.imgur.com/cPJ9kff.png" />
 </a> | Aplicação desenvolvida para a plataforma do Discord.
-</br>
+</br></br>
 <b>BassMaster (Web Player)</b> <a target="_blank" href="http://webplayer.bassmaster.ml/">
 <img align="left" alt="BassMaster" width="33px" src="https://cdn.discordapp.com/avatars/731148307329712189/89c39ceaa662703dd88d9367e654a230.png?size=2048" />
 </a>| Painel com manipulação para com um Bot do Discord.
