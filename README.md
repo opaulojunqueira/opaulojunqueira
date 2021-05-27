@@ -30,7 +30,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
 </a> - Aplicação desenvolvida para a plataforma do Discord (Economia, Rádios, Utilidades).
 </br></br>
 <b>BassMaster (Web Player)</b> <a target="_blank" href="http://webplayer.bassmaster.ml/">
-<img align="left" alt="BassMaster" width="33px" src="https://cdn.discordapp.com/avatars/731148307329712189/89c39ceaa662703dd88d9367e654a230.png?size=2048" />
+<img align="left" alt="BassMaster" width="33px" src="https://cdn.discordapp.com/avatars/731148307329712189/32aab378fb9d4faf4f7646b141d9b1e6.png?size=2048" />
 </a> - Painel com manipulação para um Bot do Discord (Músicas).
  
 ---
