@@ -1,5 +1,4 @@
 ### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
-<img align="left" alt="Instagram" width="350px" src="https://discord.c99.nl/widget/theme-4/671595099800600586.png" />
 
 <a target="_blank" href="https://www.instagram.com/opaulcj">
   <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/7GnNrAi.png" />
@@ -35,6 +34,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
 </a> - Painel com manipulação para um Bot do Discord (Músicas).
  
 ---
+<img align="left" alt="Instagram" width="350px" src="https://discord.c99.nl/widget/theme-4/671595099800600586.png" />
 
 <!--
 **pauloodev/pauloodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
