@@ -34,7 +34,7 @@ Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/
  
 ---
 <br/><br/>
-<img align="left" alt="Instagram" width="350px" src="https://discord.c99.nl/widget/theme-4/671595099800600586.png" />
+<img align="right" alt="Instagram" width="350px" src="https://discord.c99.nl/widget/theme-4/671595099800600586.png" />
 
 <!--
 **pauloodev/pauloodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
