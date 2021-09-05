@@ -1,53 +1,24 @@
-### 👋 Olá Mundo!  <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
+## Olá! Eu sou o Paulo César 🖐️
 
-<a target="_blank" href="https://www.instagram.com/opaulcj">
-  <img align="left" alt="Instagram" width="22px" src="https://i.imgur.com/7GnNrAi.png" />
-</a>
-<a target="_blank" href="https://twitter.com/pauloodev">
-  <img align="left" alt="Twitter" width="22px" src="https://i.imgur.com/iRNu7Ug.png" />
-</a>
-<a target="_blank" href="mailto:contato@pauloo.site">
-  <img align="left" alt="Gmail" width="22px" src="https://i.imgur.com/zAiig9I.png" />
-</a>
+[![Anoni4](https://img.shields.io/website?label=anoni4.cf&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://anoni4.cf)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/opaulocsr)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zn0rd)
 
-<br/>
+![Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloodev&show_icons=true&theme=dracula&count_private=true)
 
----
+## Tecnologias que eu uso no meu dia
 
-Hey, sou **Paulo César**.
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-Sou um Desenvolvedor <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px"> **Javascript** de 17 anos, 💻 **Estudante de Sistemas para Internet**, um bom 🎮 **jogador de videogame**.
+Paulo gosta de chocolate porque é chocolate!
 
-<img align="left" height="220" src="https://avatars.githubusercontent.com/pauloodev"/>
-
----
-
-### **Meus projetos:**
-
-<b>Khauê Bot</b> <a target="_blank" href="https://khaue.site">
-<img align="left" alt="Khaue" width="33px" src="https://i.imgur.com/cPJ9kff.png" />
-</a> - Aplicação desenvolvida para a plataforma do Discord (Economia, Rádios, Utilidades).
-<br/><br/>
-<b>BassMaster (Web Player)</b> <a target="_blank" href="http://webplayer.bassmaster.ml/">
-<img align="left" alt="BassMaster" width="33px" src="https://cdn.discordapp.com/avatars/731148307329712189/32aab378fb9d4faf4f7646b141d9b1e6.png?size=2048" />
-</a> - Painel com manipulação para um Bot do Discord (Músicas).
- 
----
-<br/><br/>
-<img align="right" alt="Instagram" width="350px" src="https://discord.c99.nl/widget/theme-4/671595099800600586.png" />
-
-<!--
-**pauloodev/pauloodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### Últimos projetos:
+- [phishing-facebook](https://github.com/pauloodev/phishing-facebook)<br/>
+- [bot-api-status-discord](https://github.com/pauloodev/bot-api-status-discord)<br/>
+- [discord-rpc](https://github.com/pauloodev/discord-rpc)<br/>
+- [portifolio](https://github.com/pauloodev/portifolio)<br/>
