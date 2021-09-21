@@ -20,6 +20,7 @@ Paulo gosta de chocolate porque é chocolate!
 
 ### Últimos projetos:
 - [phishing-facebook](https://github.com/pauloodev/phishing-facebook)<br/>
+- [discord-bot-captcha](https://github.com/pauloodev/discord-bot-captcha)<br/>
 - [bot-api-status-discord](https://github.com/pauloodev/bot-api-status-discord)<br/>
 - [discord-rpc](https://github.com/pauloodev/discord-rpc)<br/>
 - [portifolio](https://github.com/pauloodev/portifolio)<br/>
