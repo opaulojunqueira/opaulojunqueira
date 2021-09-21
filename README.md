@@ -30,5 +30,5 @@ Paulo gosta de chocolate porque é chocolate!
 ##
 
 <div style="display: inline_block">
-  <img alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=a7lyy3cj6wxsi1ynjjhx83oif&count=3" /><br />
+  <img alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=a7lyy3cj6wxsi1ynjjhx83oif&count=1" /><br />
 </div>
