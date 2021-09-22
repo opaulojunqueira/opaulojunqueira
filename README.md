@@ -6,7 +6,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zn0rd)
 
 ![Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloodev&show_icons=true&theme=dracula&count_private=true)
-![Spotify status](https://spotify-recently-played-readme.vercel.app/api?user=a7lyy3cj6wxsi1ynjjhx83oif&count=3)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -27,3 +26,7 @@ Paulo gosta de chocolate porque é chocolate!
 - [discord-rpc](https://github.com/pauloodev/discord-rpc)<br/>
 - [portifolio](https://github.com/pauloodev/portifolio)<br/>
 <img alt="visitors" src="https://gpvc.arturio.dev/pauloodev" />
+
+##
+
+![Spotify status](https://spotify-recently-played-readme.vercel.app/api?user=a7lyy3cj6wxsi1ynjjhx83oif&count=1)
