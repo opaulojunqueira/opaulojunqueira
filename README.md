@@ -26,7 +26,3 @@ Paulo gosta de chocolate porque é chocolate!
 - [discord-rpc](https://github.com/pauloodev/discord-rpc)<br/>
 - [portifolio](https://github.com/pauloodev/portifolio)<br/>
 <img alt="visitors" src="https://gpvc.arturio.dev/pauloodev" />
-
-##
-
-![Spotify status](https://spotify-recently-played-readme.vercel.app/api?user=a7lyy3cj6wxsi1ynjjhx83oif&count=1)
