@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo Junqueira 🖐️
 
-[![Anoni4](https://img.shields.io/website?label=anoni4.cf&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://anoni4.cf)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/opaulocsr)
+[![Anoni4](https://img.shields.io/website?label=anoni4.cf&style=for-the-badge&url=https://anoni4.cf/)](https://anoni4.cf)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/opaulojunqueira)
 [![Instagram](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pcesarjj)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zn0rd)
 
