@@ -28,4 +28,4 @@ Paulo gosta de chocolate porque é chocolate!
 - [bot-api-status-discord](https://github.com/pauloodev/bot-api-status-discord)<br/>
 - [discord-rpc](https://github.com/pauloodev/discord-rpc)<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloodev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloodev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
