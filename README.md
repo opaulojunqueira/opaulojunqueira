@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pcesarjj)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zn0rd)
 
-![Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloodev&show_icons=true&theme=dracula&count_private=true)
+![Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=opaulojunqueira&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
