@@ -3,7 +3,7 @@
 <a href="https://www.buymeacoffee.com/cesinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
 [![Anoni4](https://img.shields.io/website?label=anoni4.cf&style=for-the-badge&url=https://anoni4.cf/)](https://anoni4.cf)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/opaulojunqueira)
-[![Instagram](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pcesarjj)
+[![Instagram](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/opaulojunqueira)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zn0rd)
 
 ![Cesar GitHub stats](https://github-readme-stats.vercel.app/api?username=opaulojunqueira&show_icons=true&theme=dracula&count_private=true)
