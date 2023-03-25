@@ -1,7 +1,7 @@
 <div align="center">
 <br><br>
  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323240538574946304?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=😴)](https://discord.com/users/323240538574946304)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323240538574946304?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=😴 Ausente)](https://discord.com/users/323240538574946304)
   
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=DGS1337&theme=gotham&hide_border=true&area=true)-->
 
