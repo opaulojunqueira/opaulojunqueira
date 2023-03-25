@@ -1,13 +1,13 @@
 <div align="center">
 <br><br>
  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323240538574946304?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=ROOT)](https://discord.com/users/323240538574946304)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323240538574946304?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=😴)](https://discord.com/users/323240538574946304)
   
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=DGS1337&theme=gotham&hide_border=true&area=true)-->
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opaulojunqueira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opaulojunqueira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Paulo Junqueira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opaulojunqueira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
